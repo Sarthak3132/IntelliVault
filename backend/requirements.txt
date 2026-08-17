@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+greenlet
+pydantic-settings
+alembic
+pwdlib[argon2]
+pyjwt
+email-validator
+pgvector=0.5.0
+google-genai
